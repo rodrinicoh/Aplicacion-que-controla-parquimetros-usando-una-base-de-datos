@@ -1,3 +1,4 @@
 #############################################################################################################3
 
-The database used in the project was created using mysql
+All the .sql files were created by hand from an entity relationship diagram.
+This project was coded in 2020 with Sabrina Baungartner.
